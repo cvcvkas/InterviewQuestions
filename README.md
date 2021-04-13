@@ -4,6 +4,4 @@
 | Question                               | Description                                                                                           | Languages  |
 | -------------                          |:-------------:                                                                                        | :--------: |
 | [Rope Cutting](./ropeCuttingQuestion/)   | Cut the length of the rope into parts in a way that when you multiply the output part lengths it gets the maximum value it can get. | C++,  C#,  Java,  JavaScript,  PHP,  Python,  TypeScript|
-| [Subarray With Given Sum](./SubarrayGivenSum)  | Given an unsorted array that contains only non-negative integers, find a continuous sub-array which adds to a given number. 
-|   Python        |
-| Coming                                 | Soon                                                                                                  |    !       |
+| [Subarray With Given Sum](./SubarrayGivenSum)  | Given an unsorted array that contains only non-negative integers, find a continuous sub-array which adds to a given number.|    Python |
