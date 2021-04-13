@@ -3,6 +3,6 @@
 ---
 | Question                               | Description                                                                                           | Languages  |
 | -------------                          |:-------------:                                                                                        | :--------: |
-| [Rope Cutting](./ropeCuttingQuestion/)  | Cut a rope into parts in a way that when you multiply the parts it gets the maximum value it can get. | C++,  C#,  Java,  JavaScript,  PHP,  Python,  TypeScript|
-| Coming                                 | Soon                                                                                                  |   !      |
-| Coming                                 | Soon                                                                                                  |    !      |
+| [Rope Cutting](./ropeCuttingQuestion/)  | Cut the length of the rope into parts in a way that when you multiply the output part lengths it gets the maximum value it can get. | C++,  C#,  Java,  JavaScript,  PHP,  Python,  TypeScript|
+| Coming                                 | Soon                                                                                                  |   !        |
+| Coming                                 | Soon                                                                                                  |    !       |
