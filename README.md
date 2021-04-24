@@ -7,4 +7,6 @@
 | [Subarray With Given Sum](./SubarrayGivenSum)  | Given an unsorted array that contains only non-negative integers, find a continuous sub-array which adds to a given number.|    Python | 13.04.2021  20:00 |
 |[Count The Triplets](./countTheTriplets) | Given an array of distinct integers. The task is to count all the triplets such that sum of two elements equals the third element. | Python | 13.04.2021  22:00 |
 | [Rotate Matrix 90° & -90°](./rotateMatrix90) | Given a square matrix[ ][ ] of size N x N. The task is to rotate it by 90 degrees in a clockwise and an anti-clockwise direction without using any extra space. | Python | 14.04.2021 00:00 |
+| [QuickSort](./quicksortArray) | Quicksort is a divide-and-conquer algorithm. It works by selecting a 'pivot' element from the array and partitioning the other elements into two sub-arrays, according to whether they are less than or greater than the pivot. | Python | 24.04.2021 13:30 |
+
 
